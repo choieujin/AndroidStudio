@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MidtermApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Search</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="kakao_app_key">5f7103a08a107ef768999503bbfd4e8d</string>
+    <string name="kakao_scheme">kakao5f7103a08a107ef768999503bbfd4e8d</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">PostActivity</string>
+</resources>
